@@ -1,0 +1,1 @@
+Projeto para trabalhar com o módulo random em Python, criar funções, trabalhar com laços while e condicionais, além de obter entradas do usuário.

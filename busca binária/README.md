@@ -1,0 +1,1 @@
+Projeto para aprender a implementar o algoritmo de dividir e conquistar, chamado de pesquisa binária.
